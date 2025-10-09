@@ -8,7 +8,7 @@ We welcome contributions from developers, designers, researchers, writers, and a
 ## 🌍 Guiding Principles
 
 We believe technology should serve people, not platforms.  
-Our work is grounded in the principles expressed in the [`Sovereign Manifesto`](https://github.com/kasunben/Sovereign/blob/main/MANIFESTO), including:
+Our work is grounded in the principles expressed in the [`Sovereign Manifesto`](https://github.com/CommonsEngine/Sovereign/blob/main/MANIFESTO.md), including:
 
 1. **Freedom through design** — software should expand human choice, not limit it.  
 2. **Transparency by default** — open code, open governance, open documentation.  

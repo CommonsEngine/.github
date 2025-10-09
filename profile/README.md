@@ -44,7 +44,7 @@ We create technologies that serve as **alternatives to centralized platforms**, 
 ## 🌱 Governance
 
 CommonsEngine is an **independent, open collective** of developers, designers, and researchers dedicated to building the infrastructure for digital self-determination.
-While inspired by the vision of the [Sovereign Manifesto](https://github.com/kasunben/Sovereign/blob/main/MANIFESTO), CommonsEngine operates autonomously — guided by **shared principles, not institutional ties**.
+While inspired by the vision of the [Sovereign Manifesto](https://github.com/CommonsEngine/Sovereign/blob/main/MANIFESTO.md), CommonsEngine operates autonomously — guided by **shared principles, not institutional ties**.
 
 All projects are **community-governed, open-source**, and developed in the spirit of the **digital commons**.
 
