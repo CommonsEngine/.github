@@ -53,7 +53,7 @@ All projects are **community-governed, open-source**, and developed in the spiri
 ## 🤝 Contributing
 
 We welcome contributors who share our values.  
-Start with our [Contributors Guide](CONTRIBUTING.md) and sign the [Developer Certificate of Origin (DCO)](DCO.md).
+Start with our [Contributors Guide](../CONTRIBUTING.md) and sign the [Developer Certificate of Origin (DCO)](../DCO.md).
 
 ---
 
