@@ -26,8 +26,8 @@ We create technologies that serve as **alternatives to centralized platforms**, 
 
 | Project | Description |
 |----------|-------------|
-| [**Sovereign**](https://github.com/kasunben/Sovereign) | A self-hostable, privacy-first workspace suite — the foundation of personal cloud autonomy. |
-| [**PaperTrail**](https://github.com/kasunben/PaperTrail) | Research and evidence graph for open investigations. |
+| [**Sovereign**](https://github.com/CommonsEngine/Sovereign) | A self-hostable, privacy-first workspace suite — the foundation of personal cloud autonomy. |
+| [**PaperTrail**](https://github.com/CommonsEngine/PaperTrail) | Research and evidence graph for open investigations. |
 
 ---
 
